@@ -69,34 +69,51 @@ Descrição das etapas para análise das informações do banco de dados:
 <img width="1286" height="988" alt="Image" src="https://github.com/user-attachments/assets/c635f236-d330-49f0-b137-722a0419bda5" /></a>
 </p>
 
-- <b>.Tabela PREV_CLIMA</b>: Consulta informações utilizadas na etapa 2, nesta tabela podemos .
+- <b>.Tabela PREV_CLIMA</b>: Consulta informações utilizadas na etapa 2, nesta tabela podemos consultar informações de previsão climatologia, chuva, nuvens e temperatura, tambem podemos avaliar o impacto na produtividade nas maquinas colheitadeiras considerando previsão de chuva para os dias avalaidos .
+<p align="center">
+<img width="1930" height="1164" alt="Image" src="https://github.com/user-attachments/assets/83e8cf26-7c8d-466f-b359-67d0b65c9d1b" /></a>
+</p>
+
+- <b>.Tabela RESUMO</b>: Tabela RESUMO esta sem informação, não foi utilizada no projeto desenvolvido na etapa 2.
+<p align="center">
+<img width="1126" height="900" alt="Image" src="https://github.com/user-attachments/assets/b3e7efeb-2726-4ede-a33b-d6a61cff7f54" /></a>
+</p>
+
+- <b>.Consulta Tabela DADOS SENSORES IDE Jupyter</b>: Exibição de todos os dados da tabela.
+<p align="center">
+<img width="1920" height="988" alt="Image" src="https://github.com/user-attachments/assets/950420ef-6bff-4555-99ea-ba070ad32f36" /></a>
+</p>
+
+- <b>.Consulta Tabela DADOS SENSORES IDE Jupyter</b>: consulta plantação de trigo, select com utilização de um critério para filtro, utilizando operador logico ‘=’.
+<p align="center">
+<img width="1930" height="1164" alt="Image" src="https://github.com/user-attachments/assets/ed085228-b31a-471e-a93d-54147c4cca22" /></a>
+</p>
+
+- <b>.Consulta Tabela DADOS SENSORES IDE Jupyter</b>:  consulta plantação de trigo com tipo de irrigação gotejamento select com utilização de dois critério para filtro, utilizando operador logico ‘=’.
+<p align="center">
+<img width="1930" height="1164" alt="Image" src="https://github.com/user-attachments/assets/cf95256e-be69-43a0-96d4-097408e99e77" /></a>
+</p>
+
+- <b>.Consulta Tabela DADOS SENSORES IDE Jupyter</b>: consulta plantação diferente de trigo com nivel de pH superior a 700 utilização os operadores logicos diferente '<>' e maior '>'.
+<p align="center">
+<img width="1930" height="1164" alt="Image" src="https://github.com/user-attachments/assets/7fb44498-9ed1-476f-9287-e04d22c97f1b" /></a>
+</p>
+
+- <b>.Consulta Tabela DADOS SENSORES IDE Jupyter</b>: utilização de 3 critérios para consulta, utilizando variavel data como criterio de seleção, consulta colheitas diferentes de trigo com pH maior que 700 e previsão de colheita entre 01/ma/24 e 30/jul/24.
 <p align="center">
 <img width="1930" height="1164" alt="Image" src="https://github.com/user-attachments/assets/4c0a4fcd-d252-488a-9c0f-37062486605a" /></a>
 </p>
 
-- <b>.Importação do arquivo</b>: Nesta pasta ficarão os arquivos de configuração específicos do GitHub que ajudam a gerenciar e automatizar processos no repositório.
-<p align="center">
-<img width="1930" height="1164" alt="Image" src="https://github.com/user-attachments/assets/4c0a4fcd-d252-488a-9c0f-37062486605a" /></a>
-</p>
 
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
 ## 🔧 Como executar o código
 
-*Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços, bibliotecas etc.) e instalação básica do projeto, descrevendo eventuais versões utilizadas. Colocar um passo a passo de como o leitor pode baixar o seu código e executá-lo a partir de sua máquina ou seu repositório. Considere a explicação organizada em fase.*
+*Executar o codigo FIAP_03_01.ipynb para visualização das informações da tabela DADOS_SENSORES*
 
 
 ## 🗃 Histórico de lançamentos
 
-* 0.5.0 - XX/XX/2024
-    * 
-* 0.4.0 - XX/XX/2024
-    * 
-* 0.3.0 - XX/XX/2024
-    * 
-* 0.2.0 - XX/XX/2024
-    * 
-* 0.1.0 - XX/XX/2024
+* 0.1.0 - 10/11/2025
     *
 
 ## 📋 Licença
