@@ -21,7 +21,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>.Importação do arquivo</b>: Nesta pasta ficarão os arquivos de configuração específicos do GitHub que ajudam a gerenciar e automatizar processos no repositório.
 <p align="center">
-<img src="assets/tela_1.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=60% height=60%></a>
+<img width="903" height="581" alt="Image" src="https://github.com/user-attachments/assets/b9ca973c-4138-497a-a8f4-7818b608877b" /></a>
 </p>
 - <b>assets</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
 
